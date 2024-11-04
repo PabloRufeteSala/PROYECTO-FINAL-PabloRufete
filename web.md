@@ -11,9 +11,29 @@ Amb la introducció de petites millores mecàniques a finals del segle XVIII, co
 
 ### La introducció del teler mecànic
 
-Un dels avenços més importants del segle XIX va ser el teler mecànic (o teler accionat per màquines), que va ser desenvolupat a partir de diverses versions primerenques. Richard Arkwright va jugar un paper clau amb la seva filadora d’aigua, i Samuel Crompton va millorar el procés amb la Mule Jenny. Aquestes màquines es van utilitzar inicialment en la producció de fil, però els principis es van aplicar aviat als telers per a teixir.
+1. Innovació del teler mecànic: Un dels avenços més importants del segle XIX en la indústria tèxtil.
 
-El teler mecànic de Cartwright (1785), un precursor important, utilitzava l’energia d’una màquina de vapor per moure el teler, reduint considerablement la necessitat de força humana. La seva adopció, malgrat alguns problemes inicials, va augmentar la producció tèxtil a una escala sense precedents.
+2. Antecedents tecnològics:
+
+    Richard Arkwright va desenvolupar la filadora d’aigua.
+    Samuel Crompton va millorar la producció de fil amb la Mule Jenny.
+
+3. Primers usos:
+
+    Inicialment, aquestes màquines es van utilitzar per a la filatura, però els seus principis es van aplicar aviat als telers per a teixir.
+
+4. Teler mecànic de Cartwright (1785):
+
+    Va ser un dels primers telers a utilitzar una màquina de vapor per accionar el moviment del teler.
+    Va reduir la dependència de la força humana en el procés de teixir.
+
+5. Increment de la producció:
+
+    Tot i els problemes inicials, la introducció del teler mecànic va permetre augmentar la producció tèxtil a una escala mai vista abans.
+
+6. Impacte:
+
+    El teler mecànic va ser un factor determinant per a l’expansió de la indústria tèxtil i la Revolució Industrial.
 
 ### La mecanització i la fabricació en sèrie
 
@@ -32,10 +52,6 @@ Els telers del segle XIX van provocar una gran transformació social, amb el sor
 ### Augment de la Productivitat
 
 Amb l’aparició dels telers mecànics i el teler de Jacquard, la producció tèxtil es va accelerar enormement. El temps necessari per fabricar teixits es va reduir dràsticament, permetent produir grans quantitats en un temps molt més curt. Això va fer possible abastir un mercat cada cop més ampli, satisfent la demanda de teles assequibles per a la població en general.
-
-### Desaparició Progressiva de la Producció Artesanal
-
-La introducció dels telers mecànics va reduir la necessitat de mà d'obra artesanal, desplaçant els teixidors artesans i concentrant la producció a les fàbriques. Aquest canvi va suposar la pèrdua de molts llocs de treball qualificats i va fer que la producció tèxtil passés a estar dominada per fàbriques industrials, especialment a ciutats com Manchester i Liverpool al Regne Unit, o Sabadell i Terrassa a Catalunya.
 
 ### Sorgiment de les Fàbriques de Teixits i l’Economia de Producció en Sèrie
 
@@ -64,3 +80,59 @@ L’augment de la producció va permetre que el tèxtil es convertís en una de 
 ### Impacte Mediambiental
 
 La industrialització tèxtil també va tenir un impacte mediambiental significatiu. L'ús intensiu de màquines de vapor i productes químics en el tractament de teixits va comportar contaminació de l'aire i dels rius a les zones industrials. Aquest aspecte va ser ignorat en el seu moment, però és avui un punt d’estudi i consciència respecte a la sostenibilitat i la necessitat d’un sector tèxtil més respectuós amb el medi ambient.
+
+## Telares del segle XIX: Els canvis socials associats
+
+### Èxode Rural i Creixement Urbà
+
+Amb la introducció de telers mecanitzats en fàbriques, la producció tèxtil es va concentrar a les ciutats industrials, cosa que va atraure una gran quantitat de persones que vivien en zones rurals. Aquest fenomen, conegut com a èxode rural, va provocar el creixement exponencial de ciutats industrials a Europa i Nord-amèrica, com Manchester, Liverpool i, a Catalunya, Sabadell i Terrassa. Les ciutats es van expandir ràpidament, amb barris obrers i nous assentaments per acollir els treballadors.
+
+### Creació de la Classe Obrera Industrial
+
+El pas de la producció artesanal a la producció en fàbrica va donar lloc a una nova classe social: la classe obrera industrial. Aquest nou grup social estava format per treballadors que dedicaven llargues jornades laborals en condicions dures i sovint precàries. La classe obrera es va convertir en una força de treball massiva, diferent de la societat agrària tradicional i de l’artesania, amb necessitats i problemàtiques particulars que van marcar les relacions socials i laborals del segle.
+
+### Canvi en les Estructures Familiars
+
+* Contractació de dones i nens:
+
+    Les fàbriques tèxtils contractaven no només homes, sinó també dones i nens, ja que suposaven una mà d'obra més econòmica.
+
+* Alteració de les estructures familiars tradicionals:
+
+    Els nens es veien obligats a treballar des de joves per contribuir a l'economia familiar.
+
+* Reducció del temps familiar:
+
+    Les llargues jornades laborals, de fins a 12-16 hores diàries, reduïen el temps que les famílies podien passar juntes.
+
+* Redistribució de les tasques domèstiques:
+
+    Les tasques de la llar es van redistribuir dins de la família per adaptar-se a les noves rutines laborals.
+
+* Doble responsabilitat de les dones:
+
+    Les dones assumien la doble responsabilitat de treballar a la fàbrica i tenir cura de la família, augmentant la seva càrrega de treball.
+
+### Condicions Laborals Dures i Aparició del Moviment Obrer
+
+Les condicions laborals a les fàbriques eren extremadament dures, amb jornades llargues, salaris baixos, espais mal ventilats, i sovint perillosos. Aquesta situació va portar a una creixent consciència de la classe obrera sobre els seus drets i la necessitat d’organització. Així va sorgir el moviment obrer, amb la creació de sindicats que lluitaven per millores salarials, reducció de la jornada laboral i seguretat en el lloc de treball. El moviment obrer del segle XIX va ser fonamental per aconseguir moltes de les millores laborals que avui es consideren essencials.
+
+### Transformació de la Dona Treballadora
+
+Amb la incorporació de les dones al treball en fàbrica, la societat va començar a veure-les com a treballadores, no només com a cuidadores o mestresses de casa. Tot i que les condicions laborals de les dones eren sovint pitjors que les dels homes (sous més baixos i tasques més precàries), la seva presència en el món laboral va marcar un canvi en la percepció del seu rol social.
+
+### Desaparició Progressiva de la Producció Artesanal
+
+La introducció de la maquinària va suposar la desaparició progressiva de molts oficis artesanals, que van ser substituïts per la producció mecanitzada. Els artesans que havien produït tèxtils a petita escala van perdre la seva feina o es van veure obligats a adaptar-se a treballar a les fàbriques, sovint en condicions molt diferents de les que tenien com a productors independents. Això va ser especialment dur per a les comunitats que depenien de la producció artesanal i va suposar un canvi significatiu en la distribució de les feines tradicionals.
+
+### Impacte en l’Educació i Formació
+
+Amb l'augment de la producció mecanitzada, va créixer la necessitat de formació tècnica, i moltes ciutats industrials van començar a establir escoles i centres d'aprenentatge per formar operaris i tècnics en l’ús de la maquinària. Aquesta demanda de treballadors qualificats va impulsar l’educació tècnica i va establir les bases per a l’educació formal de la classe obrera.
+
+### Consolidació d’una Economia de Mercat
+
+La producció tèxtil industrial va donar lloc a una economia de mercat que dependia de la producció massiva i de la demanda global. La indústria tèxtil es va convertir en una de les primeres a comercialitzar-se a nivell internacional, establint rutes comercials globals que interconnectaven els països industrialitzats amb les colònies productores de matèries primeres. Aquest nou sistema econòmic va portar a una interdependència internacional i va reforçar la desigualtat entre les economies industrialitzades i les economies productores de matèries primeres.
+
+### Conclusió
+
+**Els telers del segle XIX van ser un catalitzador de canvis socials profunds que van transformar la societat en molts nivells, des de la composició de la força laboral i les condicions de vida fins a les estructures familiars i les dinàmiques de consum. Aquesta transformació va consolidar el model de societat industrial, amb els seus avantatges i desavantatges, que va establir les bases de la societat contemporània i les seves lluites socials per la igualtat, la justícia laboral i els drets dels treballadors.**
