@@ -9,7 +9,7 @@ Abans del segle XIX, el teler manual era la tecnologia principal per teixir. Aqu
 
 Amb la introducció de petites millores mecàniques a finals del segle XVIII, com el teler volador o llançadora voladora de John Kay (1733), la productivitat dels teixidors es va incrementar. Aquest mecanisme va permetre que la llançadora es mogués automàticament d'un costat a l'altre, fet que va duplicar la velocitat de producció
 
-![alt text](<telar manual.jpg>)
+![alt text](<Fotos/telar manual.jpg>)
 
 ### La introducció del teler mecànic
 
@@ -37,7 +37,7 @@ Amb la introducció de petites millores mecàniques a finals del segle XVIII, co
 
     El teler mecànic va ser un factor determinant per a l’expansió de la indústria tèxtil i la Revolució Industrial.
 
-    ![alt text](telar.jpg)
+  ![alt text](Fotos/telar.jpg)
 
 ### La mecanització i la fabricació en sèrie
 
@@ -95,7 +95,7 @@ Amb la introducció de telers mecanitzats en fàbriques, la producció tèxtil e
 
 El pas de la producció artesanal a la producció en fàbrica va donar lloc a una nova classe social: la classe obrera industrial. Aquest nou grup social estava format per treballadors que dedicaven llargues jornades laborals en condicions dures i sovint precàries. La classe obrera es va convertir en una força de treball massiva, diferent de la societat agrària tradicional i de l’artesania, amb necessitats i problemàtiques particulars que van marcar les relacions socials i laborals del segle.
 
-![alt text](<clase obrera.jpg>)
+![alt text](<Fotos/clase obrera.jpg>)
 
 ### Canvi en les Estructures Familiars
 
